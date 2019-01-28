@@ -1,7 +1,6 @@
 const webpack = require('webpack');
 const path = require('path');
 const outputPath = path.resolve(__dirname, './build');
-const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
   entry: './src/index.jsx',
@@ -47,19 +46,14 @@ module.exports = {
   },
   output: {
     path: outputPath,
-    publicPath: '/',
+    publicPath: '/build/',
     filename: 'bundle.js'
   },
   plugins: [
     new webpack.HotModuleReplacementPlugin(),
-    new HtmlWebpackPlugin({
-      template: path.resolve(__dirname, './src/index.html'),
-      filename: 'index.html',
-      path: outputPath
-    }),
   ],
   devServer: {
-    contentBase: './build',
+    contentBase: './',
     hot: true,
     host: '127.0.0.1',
     port: 3000
