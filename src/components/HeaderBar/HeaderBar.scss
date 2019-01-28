@@ -1,0 +1,75 @@
+.wrapper,
+.wrapper * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  $green: #b5c041;
+  $dark-green: #2b4c09;
+  $white: #f7f6f2;
+  $gray: #e5e1d5;
+
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 4vw;
+  background-color: $green;
+
+  h1 {
+    margin-bottom: 0.3vh;
+    font-size: 1em;
+    text-align: center;
+    text-shadow: 1px 1px 1px $gray;
+    color: $white;
+  }
+
+  .navLink,
+  span {
+    position: relative;
+    font-size: 0.5em;
+    text-decoration: none;
+    color: $white;
+  }
+
+  .navLink::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 0;
+    height: 2px;
+    background-color: $dark-green;  
+    transform: translateX(-50%);
+    transition: width 75ms linear;
+  }
+
+  .navLink:hover::after {
+    width: 80%;
+  }
+
+  .active {
+    color: $dark-green;
+  }
+
+
+  span {
+    display: inline-block;
+    margin: 0 0.3vw;
+  }
+
+  select {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    border: none;
+    border-radius: 0.3em;
+    outline: none;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+    color: $white;
+    background-color: $dark-green;
+  }
+}

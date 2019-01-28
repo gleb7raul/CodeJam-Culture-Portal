@@ -1,0 +1,45 @@
+.wrapper {
+  color: #330D8D;
+}
+
+.timeline {
+  position: relative;
+  background-color: #333333;
+  margin: 45px 200px 45px 200px;
+  border-radius: 0 8px 8px 0;
+  padding: 5px 0;
+
+  &:after {
+    content: '';
+    width: 4px;
+    height: 100%;
+    background-color: #0075E2;
+    position: absolute;
+    left: -4px;
+    top: 0;
+  }
+}
+
+.gallerywrapper {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.aphtor {
+  padding-left: 50%;
+  font-size: 24px;
+}
+
+.galleryname {
+  font-size: 30px;
+  color: black;
+  text-align: center;
+  margin-top: 60px;
+}
+
+.mapwrapper {
+  display: flex;
+  justify-content: space-around;
+}

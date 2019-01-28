@@ -1,0 +1,87 @@
+{
+  "id": "6",
+  "name": {
+    "en": "Pimen Panchanka",
+    "ru": "Пимен Емельянович Панченко",
+    "by": "Пімен Емяльянавіч Панчанка"
+  },
+  "placeOfBirth": {
+    "en": "Tallinn",
+    "ru": "Таллин",
+    "by": "Талін"
+  },
+  "video": "https://www.youtube.com/embed/rIJuhMOYfmU",
+  "works": [
+    {
+      "date": 1938,
+      "title": "Упэўненасць"
+    },
+    {
+      "date": 1943,
+      "title": "Дарога вайны"
+    },
+    {
+      "date": 1949,
+      "title": "Прысяга"
+    },
+    {
+      "date": 1962,
+      "title": "Тысяча небасхілаў"
+    },
+    {
+      "date": 1973,
+      "title": "Вершы"
+    },
+    {
+      "date": 1980,
+      "title": "Лірыка"
+    },
+    {
+      "date": 1987,
+      "title": "Прылучэнне"
+    }
+  ],
+  "bio": [
+    {
+      "key": "001",
+      "dataText": 1917,
+      "description": "Родился в городе Ревель"
+    },
+    {
+      "key": "002",
+      "dataText": 1933,
+      "description": "Переехал в Бобруйск"
+    },
+    {
+      "key": "003",
+      "dataText": 1939,
+      "description": "Служил специальным корреспондентом и писателем в армейских газетах"
+    },
+    {
+      "key": "004",
+      "dataText": 1944,
+      "description": "Был в Иране"
+    },
+    {
+      "key": "005",
+      "dataText": 1946,
+      "description": "Вернулся в Минск"
+    },
+    {
+      "key": "006",
+      "dataText": 1953,
+      "description": "Работал редактором альманаха 'Советская Отчизна'"
+    },
+    {
+      "key": "007",
+      "dataText": 1995,
+      "description": "Похоронен в Минске на Восточном кладбище."
+    }
+  ],
+  "gallery": ["12.jpg", "13.jpg", "14.jpg"],
+  "photo": "panczenko.png",
+  "map": {
+    "markGeometry": [59, 24],
+    "center": [59, 24]
+  }
+}

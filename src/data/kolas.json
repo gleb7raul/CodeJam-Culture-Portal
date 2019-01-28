@@ -1,0 +1,92 @@
+{
+  "id": "1",
+  "name": {
+    "en": "Yakub Kolas",
+    "ru": "Якуб Колас",
+    "by": "Якуб Колас"
+  },
+  "placeOfBirth": {
+    "en": "Akinchytsy",
+    "ru": "Акинчицы",
+    "by": "Акінчыцы"
+  },
+  "video": "https://www.youtube.com/embed/hni-TraQQ6Q",
+  "works": [
+    {
+      "date": 1910,
+      "title": "Песні-жальбы"
+    },
+    {
+      "date": 1914,
+      "title": "Родныя з'явы"
+    },
+    {
+      "date": 1921,
+      "title": "Казкі жыцця"
+    },
+    {
+      "date": 1923,
+      "title": "У палескай глушы"
+    },
+    {
+      "date": 1925,
+      "title": "Сымон-музыка"
+    },
+    {
+      "date": 1934,
+      "title": "Дрыгва"
+    },
+    {
+      "date": 1955,
+      "title": "На ростанях"
+    }
+  ],
+  "bio": [
+    {
+      "key": "001",
+      "dataText": 1882,
+      "description": "Родился в деревне Акинчицы"
+    },
+    {
+      "key": "002",
+      "dataText": 1902,
+      "description": "Окончил Несвижскую учительскую сименарию"
+    },
+    {
+      "key": "003",
+      "dataText": 1906,
+      "description": "Первая публикация 'Край родимый'"
+    },
+    {
+      "key": "004",
+      "dataText": 1915,
+      "description": "Эвакуировался в Пинск"
+    },
+    {
+      "key": "005",
+      "dataText": 1916,
+      "description": "Окончил Александровское военное училище"
+    },
+    {
+      "key": "006",
+      "dataText": 1921,
+      "description": "Переехал в Минск"
+    },
+    {
+      "key": "007",
+      "dataText": 1928,
+      "description": "Стал вице-президентом Академии наук БССР"
+    },
+    {
+      "key": "008",
+      "dataText": 1946,
+      "description": "Стал депутатом ВС СССР "
+    }
+  ],
+  "photo": "kolas.jpeg",
+  "gallery": ["0.jpeg", "7.jpg", "8.jpg"],
+  "map": {
+    "markGeometry": [53, 26],
+    "center": [53, 26]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "2",
+  "name": {
+    "en": "Ivan Daminikavich Lutsevich",
+    "ru": "Иван Доминикович Луцевич",
+    "by": "Іван Дамінікавіч Луцэвіч"
+  },
+  "placeOfBirth": {
+    "en": "Viazynka",
+    "ru": "Вязынка",
+    "by": "Вязынка"
+  },
+  "video": "https://www.youtube.com/embed/zyUqRqG7yxk",
+  "works": [
+    {
+      "date": 1908,
+      "title": "Жалейка"
+    },
+    {
+      "date": 1912,
+      "title": "Паўлінка"
+    },
+    {
+      "date": 1933,
+      "title": "Шляхам жыцьця"
+    },
+    {
+      "date": 1913,
+      "title": "Прымакі"
+    },
+    {
+      "date": 1913,
+      "title": "Раскіданае гняздо"
+    },
+    {
+      "date": 1922,
+      "title": "Тутэйшыя"
+    },
+    {
+      "date": 1942,
+      "title": "Беларускім партызанам"
+    }
+
+  ],
+  "bio": [
+    {
+      "key": "001",
+      "dataText": 1882,
+      "description": "Родился в деревне Вязынка"
+    },
+    {
+      "key": "002",
+      "dataText": 1902,
+      "description": "Работал домашним учителем"
+    },
+    {
+      "key": "003",
+      "dataText": 1908,
+      "description": "Работал в газете 'Наша Нива' в Вильне"
+    },
+    {
+      "key": "004",
+      "dataText": 1915,
+      "description": "Учился в Московском городском народном университете"
+    },
+    {
+      "key": "005",
+      "dataText": 1916,
+      "description": "Призван в армию"
+    },
+    {
+      "key": "006",
+      "dataText": 1919,
+      "description": "Переехал в Минск"
+    },
+    {
+      "key": "007",
+      "dataText": 1922,
+      "description": "Редактор газеты 'Вольны сцяг'"
+    },
+    {
+      "key": "008",
+      "dataText": 1942,
+      "description": "Умер в гостинице 'Москва'"
+    }
+  ],
+  "gallery": ["9.jpg", "10.jpg", "11.jpg"],
+  "photo": "kupala.jpg",
+  "map": {
+    "markGeometry": [54, 26],
+    "center": [54, 26]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "3",
+  "name": {
+    "en": "Ryhor Baradulin",
+    "ru": "Рыгор Иванович Бородулин",
+    "by": "Рыгор Іванавіч Барадулін"
+  },
+  "placeOfBirth": {
+    "en": "Verasowka",
+    "ru": "Вересовка",
+    "by": "Верасоўка"
+  },
+  "video": "https://www.youtube.com/embed/xXXaSXWLpsc",
+  "works": [
+    {
+      "date": 1959,
+      "title": "Маладзік над стэпам"
+    },
+    {
+      "date": 1966,
+      "title": "Неруш"
+    },
+    {
+      "date": 1978,
+      "title": "Абсяг"
+    },
+    {
+      "date": 1988,
+      "title": "Мудрэц са ступаю"
+    },
+    {
+      "date": 1993,
+      "title": "Трэба дома бываць часцей"
+    },
+    {
+      "date": 1995,
+      "title": "Евангелле ад Мамы"
+    },
+    {
+      "date": 2010,
+      "title": "Халодная памяць вады."
+    }
+  ],
+  "bio": [
+    {
+      "key": "001",
+      "dataText": 1935,
+      "description": "Родился на хуторе Вересовка"
+    },
+    {
+      "key": "002",
+      "dataText": 1954,
+      "description": "Окончил Ушачскую школу"
+    },
+    {
+      "key": "003",
+      "dataText": 1959,
+      "description": "Окончил филологический факультет БГУ"
+    },
+    {
+      "key": "004",
+      "dataText": 1989,
+      "description": "Член сейма БНФ"
+    },
+    {
+      "key": "005",
+      "dataText": 1992,
+      "description": "Получил звание народного поэта"
+    },
+    {
+      "key": "006",
+      "dataText": 2014,
+      "description": "Умер в своей квартире в Минске"
+    }
+  ],
+  "gallery": ["1.jpg", "2.jpg", "3.jpg"],
+  "photo": "baradulin.jpg",
+  "map": {
+    "markGeometry": [55, 29],
+    "center": [55, 29]
+  }
+}

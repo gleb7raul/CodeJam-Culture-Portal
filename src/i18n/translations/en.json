@@ -1,0 +1,17 @@
+{
+  "hello": "Hello",
+  "portalTitle": "About portal",
+  "portalDescription": "The portal contains information about the poets of Belarus. Described biography, made in the form of a timeline. You can also find a list of works of authors. Presents photos and videos reflecting the life path, work and era in which Belarusian poets worked. On the interactive map you can find a mark with the place of the main activity of the author.",
+  "devTeam": "Development team",
+  "authorOfTheDay": "Author of the day",
+  "Belаrusian poets": "Belаrusian poets",
+  "Main": "Main",
+  "Poets list": "Poets list",
+  "name-of-poet": "Poet's name",
+  "place-of-birth": "Place of birth",
+  "search-placeholder": "Search by name or place of birth",
+  "sort-by": "Sort by",
+  "standart-sort": "standart sorting",
+  "name-sort": "name",
+  "place-of-birth-sort": "place of birth"
+}

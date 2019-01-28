@@ -1,0 +1,4 @@
+./node_modules/**.*
+webpack.config.*
+src/**/*.scss
+build/**/*.js
